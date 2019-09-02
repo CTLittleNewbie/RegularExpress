@@ -1,0 +1,7 @@
+G:\Regx\RegularExpress\RegularExpress\bin\Debug\RegularExpress.exe.config
+G:\Regx\RegularExpress\RegularExpress\bin\Debug\RegularExpress.exe
+G:\Regx\RegularExpress\RegularExpress\bin\Debug\RegularExpress.pdb
+G:\Regx\RegularExpress\RegularExpress\obj\Debug\RegularExpress.csprojAssemblyReference.cache
+G:\Regx\RegularExpress\RegularExpress\obj\Debug\RegularExpress.csproj.CoreCompileInputs.cache
+G:\Regx\RegularExpress\RegularExpress\obj\Debug\RegularExpress.exe
+G:\Regx\RegularExpress\RegularExpress\obj\Debug\RegularExpress.pdb
