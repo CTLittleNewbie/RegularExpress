@@ -1,0 +1,7 @@
+F:\RegularExpress\Regx\Regx\bin\Debug\Regx.exe.config
+F:\RegularExpress\Regx\Regx\bin\Debug\Regx.exe
+F:\RegularExpress\Regx\Regx\bin\Debug\Regx.pdb
+F:\RegularExpress\Regx\Regx\obj\Debug\Regx.csprojAssemblyReference.cache
+F:\RegularExpress\Regx\Regx\obj\Debug\Regx.csproj.CoreCompileInputs.cache
+F:\RegularExpress\Regx\Regx\obj\Debug\Regx.exe
+F:\RegularExpress\Regx\Regx\obj\Debug\Regx.pdb
